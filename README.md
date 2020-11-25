@@ -8,15 +8,16 @@ cnpm install  或者 npm install
 
 ```
 
-##启动
+## 启动
 ```
 npm  run dev
 
 ```
 
-## 效果
+## 动画效果
 ![123.gif](https://i.loli.net/2020/11/25/oN8mjVhalzAFTZ3.gif)
 
+## 静态展示
 ![20201125095024.png](https://i.loli.net/2020/11/25/PnJURw9EbZ2Gj8y.png)
 
 ![20201125095018.png](https://i.loli.net/2020/11/25/JiLOQMTaoh1Adq2.png)

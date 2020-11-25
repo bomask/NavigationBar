@@ -12,6 +12,7 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "vue": "^2.5.2",
+    "vue-burger-menu": "^2.0.5",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {

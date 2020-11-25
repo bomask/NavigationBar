@@ -3,7 +3,7 @@
 
 ## 使用
 ```
-cd main
+cd mine
 cnpm install  或者 npm install 
 
 ```

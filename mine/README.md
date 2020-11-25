@@ -1,21 +1,24 @@
-# mine
+## 简介
+这是一个导航栏框架，结合已有组件进行调整形成现在的样式
 
-> A Vue.js project
+## 使用
+```
+cd main
+cnpm install  或者 npm install 
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##启动
+```
+npm  run dev
+
+```
+
+## 效果
+![123.gif](https://i.loli.net/2020/11/25/oN8mjVhalzAFTZ3.gif)
+
+![20201125095024.png](https://i.loli.net/2020/11/25/PnJURw9EbZ2Gj8y.png)
+
+![20201125095018.png](https://i.loli.net/2020/11/25/JiLOQMTaoh1Adq2.png)
+
+#### 如果喜欢，点个赞吧！Thanks♪(･ω･)ﾉ
